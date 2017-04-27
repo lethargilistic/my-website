@@ -1,0 +1,6 @@
+[submodule "card"]
+	path = card
+	url = https://github.com/lethargilistic/card.git
+[submodule "resume"]
+	path = resume
+	url = https://github.com/lethargilistic/resume.git
